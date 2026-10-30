@@ -18,7 +18,7 @@ Ho già avuto occasione di utilizzare o conoscere:
 
 - github
 - c
-- 
+- vscode
 
 ## 🧠 Una cosa che potrei insegnare ai miei compagni
 
