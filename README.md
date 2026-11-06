@@ -26,7 +26,7 @@ nulla
 
 ## 🔍 Cosa mi piacerebbe imparare
 
-...
+programmare  
 
 ## 🚀 Un progetto che mi piacerebbe realizzare
 
